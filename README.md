@@ -15,7 +15,7 @@ pip install docx2txt
 
 Afterwards, you can run the project with:
 ```bash
-python3 resume_analyzer.py
+python resume_analyzer.py
 ```
 
 Once it's running, the program will prompt you for the job title/position and the filepath of a resume/CV/cover letter. Only .txt or .docx files are accepted for the file.
